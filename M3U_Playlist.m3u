@@ -1,8 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="sample.png" group-title="No group",Move
 https://tvplayersupport.github.io/Sample/move.mp4
-#EXTINF:-1 tvg-logo="sample.png" group-title="No group",adsport1
-http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
-#EXTINF:-1 tvg-logo="sample.png" group-title="No group",adsport2
-http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
-
+#EXTINF:-1 tvg-logo="sample.png" group-title="No group",POP-PATAKA
+http://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/master.m3u8
+#EXTINF:-1 tvg-logo="sample.png" group-title="No group",POP-PATAKAs
+https://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/master.m3u8
+#EXTINF:-1 tvg-logo="sample.png" group-title="No group",M20-TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:-1 tvg-logo="sample.png" group-title="No group",M20-TVs
+https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
